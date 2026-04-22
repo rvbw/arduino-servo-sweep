@@ -6,7 +6,7 @@ The servo automatically moves back and forth between two angles in a continuous 
 
 This is a basic and essential project for testing servo motors before integrating them into more advanced systems like robotic arms.
 
-![Project Image](Image/image.jpeg)
+![Project Image](images/image.jpeg)
 
 ---
 
